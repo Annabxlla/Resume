@@ -15,13 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/made4cod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="made4cod" height="30" width="40" /></a>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/366441534796857344?theme=light&bg=809ecf&animated=true&borderRadius=30px&idleMessage=Prolly%20Sleepin%20or%20somthin)](https://discord.com/users/366441534796857344)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/366441534796857344)](https://discord.com/users/366441534796857344)
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/366441534796857344?theme=light&bg=809ecf&animated=true&borderRadius=30px&idleMessage=Prolly%20Sleepin%20or%20somthin)](https://discord.com/users/366441534796857344)
-
+<a href="https://twitter.com/made4cod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="made4cod" height="30" width="40" /></a> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/366441534796857344?theme=light&bg=809ecf&animated=true&borderRadius=30px&idleMessage=Prolly%20Sleepin%20or%20somthin)](https://discord.com/users/366441534796857344)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
