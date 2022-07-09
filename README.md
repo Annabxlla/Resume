@@ -19,6 +19,9 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/366441534796857344?theme=light&bg=809ecf&animated=true&borderRadius=30px&idleMessage=Prolly%20Sleepin%20or%20somthin)](https://discord.com/users/366441534796857344)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/366441534796857344)](https://discord.com/users/366441534796857344)
+  
+  [![Discord Presence](https://lanyard.cnrad.dev/api/366441534796857344?theme=light&bg=809ecf&animated=true&borderRadius=30px&idleMessage=Prolly%20Sleepin%20or%20somthin)](https://discord.com/users/366441534796857344)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
