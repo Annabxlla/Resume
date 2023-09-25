@@ -9,7 +9,9 @@
 
 - 🌱 I know a little bit of **Japaneese and** and a lot more of **Spanish (Hola 👋)**
 
-- 💬 Ask me about anything **Furry, Minecraft, Java/Javascript/Type [coercion](https://www.youtube.com/watch?v=pZUTdw6zcck) [(part 2)](https://www.youtube.com/watch?v=sRWE5tnaxlI)**
+- 💬 Ask me about anything **Furry, Minecraft, Java/Javascript**
+
+- Dont get me started on [Type Coercion](https://www.youtube.com/watch?v=pZUTdw6zcck)... [Part 2](https://www.youtube.com/watch?v=sRWE5tnaxlI)
 
 - 📫 How to reach me **inqu@annabxlla.me**
 
