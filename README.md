@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annabxlla" alt="annabxlla" /></a> </p>
 
-- 🔭 I’m currently working on [A Top Secret Project](https://phantom.annabxlla.me)
+- 🔭 I'm currently inbetween projects as I am about to start classes
 
-- 🌱 I’m currently learning **Japaneese and Spanish (Hola 👋)**
+- 🌱 I know a little bit of **Japaneese and** and a lot more of **Spanish (Hola 👋)**
 
-- 💬 Ask me about anything **Furry, Minecraft, Java/Javascript**
+- 💬 Ask me about anything **Furry, Minecraft, Java/Javascript/Type [coercion](https://www.youtube.com/watch?v=pZUTdw6zcck) [(part 2)](https://www.youtube.com/watch?v=sRWE5tnaxlI)**
 
 - 📫 How to reach me **inqu@annabxlla.me**
 
